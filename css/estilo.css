@@ -1,0 +1,56 @@
+body{
+	background-color: #191970;
+}
+
+
+.container-fluid{
+	background-color: #191970;
+	height: 120px;
+}
+.btn{
+	margin-top: 50px;
+	margin-left:70px;
+}
+.label{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
+#container1{
+	background-color: #000000;
+	height: 60px;
+}
+#container2{
+	background-color: #FFFFFF;
+	height: 420px;
+	width: 400px;
+}
+#container3{
+	background-color: #FFFFFF !important;
+}
+#label2{
+	text-align: center;
+	color: #000000;
+}
+#relatorio{
+	margin-top: 25px;
+	text-align: center;
+}
+
+
+#verificar{
+	text-align:right;
+	margin-top: 200px;
+}
+#voltar{
+	text-align:right;
+	margin-top: 200px;
+}
+#verificar2{
+}
+#voltar2{
+}
+#tabela{
+	background-color: #FFFFFF;
+}
