@@ -2,8 +2,10 @@
 Atividade Prática Final
 -------NOME--------------------
 Bruno Nunes Reis
+Gustavo Ramos
 Lucas Zampola Rosa
 Paulo Alcantara
+
 
 -------DESCRIÇÃO DO PROJETO----
 O Projeto permite a criação de disciplinas, alunos e notas no banco de dados,
